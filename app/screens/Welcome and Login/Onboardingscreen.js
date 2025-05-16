@@ -16,7 +16,7 @@ const { width } = Dimensions.get("window");
 const slides = [
   {
     id: "1",
-    image: require("../assets/Girl waving and sitting on the welcome sign.png"),
+    image: require("../../assets/Girl waving and sitting on the welcome sign.png"),
     title: "ShareSpace",
     description:
       "Navigate university life with ease. Connect with seniors, find guidance, and grow together!",
@@ -24,7 +24,7 @@ const slides = [
   },
   {
     id: "2",
-    image: require("../assets/young smiling man points with fingers to right side.png"),
+    image: require("../../assets/young smiling man points with fingers to right side.png"),
     title: "What You Get",
     description:
       "✅ Find mentors & get support\n✅ Experience Sharing\n✅ Access valuable resources",
@@ -32,7 +32,7 @@ const slides = [
   },
   {
     id: "3",
-    image: require("../assets/Successful marketing team joins forces.png"),
+    image: require("../../assets/Successful marketing team joins forces.png"),
     title: "ShareSpace",
     description:
       "Join as a Junior or Senior and start your journey today!",
