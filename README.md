@@ -33,15 +33,25 @@ Open it in an emulator or scan the QR code using the Expo Go app.
 
 🗂️ Project Structure
 
+
 ShareSpace/
-├── app/                 # Main app screens and components
-│   ├── components/      # Reusable UI components
-│   ├── screens/         # App pages (Home, Profile, etc.)
-│   └── navigation/      # Tab and stack navigators
-├── assets/              # App images and fonts
-├── App.js               # Entry point
-├── app.json             # Expo config
-└── package.json         # Project metadata and scripts
+
+├── app/              # Main app screens and components
+
+│   ├── components/                  # Reusable UI components
+
+│   ├── screens/                     # App pages (Home, Profile, etc.)
+
+│   └── navigation/                  # Tab and stack navigators
+
+├── assets/                          # App images and fonts
+
+├── App.js                           # Entry point
+
+├── app.json                         # Expo config
+
+└── package.json                     # Project metadata and scripts
+
 🤝 Contributing
 We love contributions! Here's how to get started:
 
