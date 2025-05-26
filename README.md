@@ -62,16 +62,26 @@ git push origin feature/your-feature-name
 Below are some screenshots of ShareSpace pages.
 
 HOME PAGE
+
 <img src="https://github.com/user-attachments/assets/0c1f25be-40ad-4499-9f7d-0b6459da1c45" width="300" />
+
 EXPLORE PAGE
+
 <img src="https://github.com/user-attachments/assets/1e191c21-9f83-4c8a-83b3-ac1ad911b7ca" width="300" /> <img src="https://github.com/user-attachments/assets/8c8c7c53-365a-4e0c-b9c9-f5f89c10b10b" width="300" /> <img src="https://github.com/user-attachments/assets/b7f92a14-0933-47bf-a812-6690b1e32734" width="300" />
+
 MESSAGING PAGES
+
 <img src="https://github.com/user-attachments/assets/0aaf9d5b-3f60-4660-8bfa-95e0bc53eacb" width="300" /> <img src="https://github.com/user-attachments/assets/ac54097d-630d-466b-9566-c1f7f549dc7b" width="300" />
+
 PROFILE PAGE
+
 <img src="https://github.com/user-attachments/assets/4f8c02f5-3572-4080-a909-da9eab946aae" width="300" /> <img src="https://github.com/user-attachments/assets/edef5e56-f0ad-4d05-8d38-a79129a7a222" width="300" />
 EDIT PROFILE PAGE
+
 <img src="https://github.com/user-attachments/assets/7dc72f75-4b58-4597-b099-3aa4bc06d803" width="300" />
+
 SETTINGS PAGE
+
 <img src="https://github.com/user-attachments/assets/95f03ba7-822a-4b5e-a312-295117f9259c" width="300" />
 
 Feel free to use, distribute, and modify.
