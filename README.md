@@ -76,6 +76,7 @@ MESSAGING PAGES
 PROFILE PAGE
 
 <img src="https://github.com/user-attachments/assets/4f8c02f5-3572-4080-a909-da9eab946aae" width="300" /> <img src="https://github.com/user-attachments/assets/edef5e56-f0ad-4d05-8d38-a79129a7a222" width="300" />
+
 EDIT PROFILE PAGE
 
 <img src="https://github.com/user-attachments/assets/7dc72f75-4b58-4597-b099-3aa4bc06d803" width="300" />
